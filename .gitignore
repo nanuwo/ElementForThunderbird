@@ -1,0 +1,24 @@
+#Hide anything inside of a subfolder
+*/*
+
+#Hide other Element files
+welcome.html
+apple-app-site-association
+config.json
+config.sample.json
+contribute.json
+decoderWorker.min.wasm
+index.html
+jitsi.html
+jitsi_external_api.min.js
+jitsi_external_api.min.js.LICENSE.txt
+olm.3fc8dbf.wasm
+olm_legacy.js
+olm_legacy.js.LICENSE.txt
+opus-decoderWorker.min.8653698.js
+opus-encoderWorker.min.c3a64a8.js
+recorder.worklet.js
+recorder.worklet.js.map
+sw.js
+version
+wave-encoderWorker.min.f289977.js

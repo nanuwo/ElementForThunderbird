@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Element for Thunderbird",
+  "version": "1.0",
+  "description": "Adds the Element matrix client to Thunderbird",
+  "icons": {
+    "48": "icon.ico"
+  },
+  "background": {
+    "scripts": [
+      "redirect.js"
+    ]
+  }
+}
