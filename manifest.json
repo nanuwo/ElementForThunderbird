@@ -2,7 +2,14 @@
   "manifest_version": 2,
   "name": "Element for Thunderbird",
   "version": "1.0",
+  "author": "ScanuNicco, nanowu",
   "description": "Adds the Element matrix client to Thunderbird",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "element.thunderbird@nanuwo.github.io",
+      "strict_min_version": "128.0"
+    }
+  },
   "icons": {
     "48": "icon.ico"
   },

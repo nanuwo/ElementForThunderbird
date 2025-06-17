@@ -22,3 +22,6 @@ recorder.worklet.js.map
 sw.js
 version
 wave-encoderWorker.min.f289977.js
+
+# Hide .xpi resultant file
+*.xpi
